@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div {
+    height: 700px;
+}
+img {
+    display: block;
+}
+.separation {
+    height: 1.46%;
+}
+.img-sm {
+    height: 15.09%;
+}
+.img-med {
+    height: 17.89%;
+}
+.img-lg {
+    height: 21.4%;
+}
